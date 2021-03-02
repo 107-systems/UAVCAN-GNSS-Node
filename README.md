@@ -1,3 +1,4 @@
+<a href="https://uavcan.org/"><img align="right" src="https://raw.githubusercontent.com/UAVCAN/uavcan.org/master/app/static/images/logo.svg" width="20%"></a>
 UAVCAN-GNSS-Node
 ================
 
